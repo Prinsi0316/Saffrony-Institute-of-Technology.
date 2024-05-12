@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    background-color: rgb(241, 222, 187);
+} ;
+html,body{
+    background-color: rgb(241, 222, 187); 
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+p{
+    text-align: center;
+}
